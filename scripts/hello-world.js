@@ -1,1 +1,1 @@
-console.log("Hello World File");
+document.writeln("Hello World");
